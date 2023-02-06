@@ -56,7 +56,6 @@ _you know what to do, right ?_ :wink:
 - - -
 ### Congrats ! You did it ! :confetti_ball:
 
-You really deserved a beer ! :beers: (or your favourite drink)
 
 ## Bonuses
 
