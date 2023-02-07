@@ -42,7 +42,7 @@ _again, don't forget to commit_ :wink:
 
 ### Details page
 
-You are going to use `react-router` and `react-router-dom`
+You are going to use `react-router-dom`
 
 - Refactor your code to implement a router, with two routes :
   - `"/"` will display your `<GameList />`
