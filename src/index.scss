@@ -1,0 +1,9 @@
+//style screen
+@import "./screens/styles/Home.scss";
+//style components
+@import "./components/styles/Header.scss";
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+  }
